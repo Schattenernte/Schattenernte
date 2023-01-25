@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on mobile development with kotlin<br>I'm studying at ecole 42<br>I am experienced in C++ and C languages.<br>golang is my favorite programming language
+I'm currently working on mobile development with kotlin<br>I'm studying at ecole 42<br>I'm experienced in C++ and C languages.<br>golang is my favorite programming language
 
 
 # 💻 Tech Stack:
